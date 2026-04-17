@@ -1,4 +1,4 @@
-# Customer-Lifecycle-Decay-Detection-Proactive-Retention-Targeting
+
 
 # Customer Lifecycle Decay Detection & Proactive Retention Targeting
 ### SQL-Driven CRM Strategy | Brazilian E-Commerce Dataset (Olist)
